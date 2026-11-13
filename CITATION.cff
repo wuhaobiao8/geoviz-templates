@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use these figure templates, please cite the repository."
+title: "geoviz-templates: publication-quality figure templates for geoscience and remote sensing"
+authors:
+  - family-names: "Wu"
+    given-names: "Haobiao"
+version: 0.1.0
+date-released: "2026-11-14"
+url: "https://github.com/wuhaobiao8/geoviz-templates"
+license: MIT
